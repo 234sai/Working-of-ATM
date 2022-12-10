@@ -1,4 +1,4 @@
-x=input("Enter Your Name:")
+x=input("ENTER YOUR NAME:")
 y=input("Enter 5 Digit AC Number :")
 z=len(y)
 if (z==5):
